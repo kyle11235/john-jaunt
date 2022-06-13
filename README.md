@@ -42,7 +42,7 @@
 
                 the Animator component on the character’s parent GameObject will change the rotation of all the bone GameObject Transform components, and these changes will happen together to animate the character
 
-                ![image info](./images/01.png)
+    ![image info](./images/01.png)
 
         - create Prefab
                 
@@ -97,8 +97,7 @@
                 john prefab > add script PlayerMovement
 
         - play
-
-                ![image info](./images/02.png)
+    ![image info](./images/02.png)
 
 
 - add environment
@@ -122,7 +121,7 @@
 
         - Cinemachine
 
-                ![image info](./images/03.png)
+    ![image info](./images/03.png)
 
         - Add Post-Processing Effects
 
